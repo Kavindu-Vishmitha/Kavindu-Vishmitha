@@ -43,7 +43,7 @@
 
 - 💬 Ask from me anything you want, If I am alive I will answer within seconds 😉
 
-- 📫 How to reach me **sanjananisalkumara@gmail.com**
+- 📫 How to reach me **2003kavinduvishmitha@gmail.com**
   
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 <!--Intro end-->
