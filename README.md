@@ -15,7 +15,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width = 500px alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width = 400px alt="adam-pw" /></p>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Java, Javascript, HTML, CSS, PHP**
