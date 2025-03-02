@@ -7,8 +7,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width = 400px alt="adam-pw" /></p>
-
+<h3 align="left">💫 About Me:</h3>
 <!--Intro start-->
+
 - 💻 I’m currently working on **Java, Python, Javascript, HTML, CSS, PHP**
 
 - 🌱 I’m currently learning about **Machine Learning**, **Deep Learning**, **Robotics**🥰
@@ -18,7 +19,7 @@
 - ⚡**As if the day was won, even the next day, they should work until the goal is completed 😎**
 <!--Intro end-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💫 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kavindu-vishmitha" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
