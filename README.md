@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Vishmitha</h1>
 
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2300aaee&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2300aaee&size=32&center=true&vCenter=true&width=600&height=50&lines=FRONT-END+DEVELOPER" alt="Headline" />
     </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
