@@ -10,7 +10,7 @@
 <h3 align="left">💫 About Me:</h3>
 <!--Intro start-->
 
-- 💻 I’m currently working on **Java, Python, Javascript, HTML, CSS, React.js, Bootstrap, Tailwind CSS, and Robotics**
+- 💻 I’m currently working on **Java, Python, Javascript, HTML, CSS, React.js, Bootstrap, Tailwind CSS**
 
 - 🌱 I’m currently learning about **Machine Learning**, **Deep Learning**, **Robotics**🥰
 
